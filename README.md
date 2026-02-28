@@ -74,8 +74,8 @@ O modelo foi avaliado com base em:
 | Tipo | Link |
 |------|------|
 | Vídeo Explicativo (Drive) | [] |
-| Aplicação (Streamlit) | [] |
-| Dashoboard (Power BI) | [] |
+| Aplicação (Streamlit) | [https://techchallenge-grupo30.streamlit.app/] |
+| Dashoboard (Power BI) | [https://app.powerbi.com/view?r=eyJrIjoiMDE3MTBiNDItZDY3YS00MzA2LWE2YzQtMGQ0M2I3ZTc3MTJkIiwidCI6IjdmMDJiNjQwLWFiNTAtNDY4My1hODk1LWM1Mjk1MjM3YzA3ZiIsImMiOjR9] |
 ## 🕵️‍♀️ Alunos Responsáveis
 
 **Nomes:**
